@@ -1,2 +1,3 @@
 # Trabajo_Terminal_NFL
-Trabajo terminal sobre la clasificación y predicción de métricas de partidos de la NFL, del año 2015 al 2026
+Trabajo terminal sobre la clasificación y predicción de métricas de partidos de la NFL, del año 2015 al 2026.
+Agregar manualmente el .ven y en la carpeta de data, agregar el csv de los datos de la NFL.
